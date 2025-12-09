@@ -1,4 +1,4 @@
-### Hi there, I'm soundstarrain! 👋
+### Hi there, I'm SoundRain! 👋
 
 Welcome to my GitHub profile. I'm a university student majoring in Computer Science. I enjoy building projects about topics I'm passionate about.
 
