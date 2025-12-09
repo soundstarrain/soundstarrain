@@ -6,18 +6,10 @@ Welcome to my GitHub profile. I'm a Computer Science university student who enjo
 
 ### 📊 My GitHub Stats
 
-<!-- Replace 'pink' with other themes if you like: -->
-<!-- available themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=soundstarrain&show_icons=true&theme=pink)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soundstarrain&layout=compact&theme=pink)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🌱 I’m currently learning ...
-
-- PyTorch
-- Rust
-- Go
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soundstarrain&layout=donut&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soundstarrain&show_icons=true&hide_border=true&theme=dark" />
+</p>
 
 ### 📫 How to reach me:
 
