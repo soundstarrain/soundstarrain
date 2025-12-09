@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there, I'm soundstarrain! 👋
 
-<!--
-**soundstarrain/soundstarrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a Computer Science university student who enjoys writing projects about things I'm interested in.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 My GitHub Stats
+
+<!-- Replace 'pink' with other themes if you like: -->
+<!-- available themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=soundstarrain&show_icons=true&theme=pink)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soundstarrain&layout=compact&theme=pink)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌱 I’m currently learning ...
+
+- PyTorch
+- Rust
+- Go
+
+### 📫 How to reach me:
+
+- Email: imier.galls_9v@icloud.com
