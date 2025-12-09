@@ -6,10 +6,8 @@ Welcome to my GitHub profile. I'm a Computer Science university student who enjo
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soundstarrain&layout=donut&hide_border=true&theme=dark" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=soundstarrain&show_icons=true&hide_border=true&theme=dark" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soundstarrain&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soundstarrain&theme=dark)
 
 ### 📫 How to reach me:
 
