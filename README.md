@@ -1,6 +1,6 @@
 ### Hi there, I'm soundstarrain! 👋
 
-Welcome to my GitHub profile. I'm a Computer Science university student who enjoys writing projects about things I'm interested in.
+Welcome to my GitHub profile. I'm a university student majoring in Computer Science. I enjoy building projects about topics I'm passionate about.
 
 ---
 
