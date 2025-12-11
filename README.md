@@ -11,4 +11,4 @@ Welcome to my GitHub profile. I'm a university student majoring in Computer Scie
 
 ### 📫 How to reach me:
 
-- Email: imier.galls_9v@icloud.com
+- Email: slimier.galls_9v@icloud.com
