@@ -17,6 +17,7 @@ Welcome to my GitHub profile. I'm a university student majoring in Computer Scie
     </tr>
   </table>
 </div>
+
 ### 📫 How to reach me:
 
 - Email: slimier.galls_9v@icloud.com
