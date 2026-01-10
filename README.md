@@ -5,10 +5,18 @@ Welcome to my GitHub profile. I'm a university student majoring in Computer Scie
 ---
 
 ### 📊 My GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soundstarrain&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=soundstarrain&theme=dark)
-
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-seven-theta.vercel.app/api?username=soundstarrain&show_icons=true&theme=dark&display_format=svg" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-seven-theta.vercel.app/api/top-langs/?username=soundstarrain&layout=compact&theme=dark&display_format=svg" />
+      </td>
+    </tr>
+  </table>
+</div>
 ### 📫 How to reach me:
 
 - Email: slimier.galls_9v@icloud.com
