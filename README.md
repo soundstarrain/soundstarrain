@@ -18,7 +18,7 @@ I am currently engaged in independent and collaborative research across multiple
 
 ### 📌 Featured Work & Research
 
-- **[Murasaki-project](https://github.com/soundstarrain/Murasaki-project):** An ACGN translation model with native CoT (Chain-of-Thought) and Long Context support. Achieving **SOTA (State-of-the-Art) performance** in the ACGN translation and localization domain. *(⭐ 600+ Stars)*
+- **[Murasaki-project](https://github.com/soundstarrain/Murasaki-project):** An ACGN translation model with native CoT (Chain-of-Thought) and Long Context support. Achieving **SOTA (State-of-the-Art) performance** in the ACGN translation and localization domain. 
 - **[Ongoing Research]:** Currently working on specific research problems in **LLM Machine Translation**, **Math Reasoning**, and **Recommender Systems**.
   
 ### 📫 Connect
