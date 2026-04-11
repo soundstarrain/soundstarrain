@@ -12,7 +12,7 @@ I am currently engaged in independent and collaborative research across multiple
 
 ### 💻 Tech Stack
 
-- **Deep Learning:** PyTorch, Hugging Face 🤗
+- **Deep Learning:** PyTorch
 - **LLM Training:** Unsloth, verl, LLaMA-Factory
 - **Inference & Optimization:** vLLM, SGLang, OpenAI Triton
 
