@@ -1,6 +1,7 @@
 ## Hi there, I'm SoundRain! 👋
 
 I am a Computer Science sophomore deeply focused on Machine Learning, Large Language Models (LLMs), and Recommender Systems.
+
 Currently engaged in independent and collaborative research across multiple AI domains, I remain always open to open-source collaborations and technical discussions.
 
 ### 🔬 Research & Interests
