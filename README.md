@@ -24,8 +24,6 @@ Currently engaged in independent and collaborative research across multiple AI d
 ### 📫 Connect
 
 - **Email:**[slimier.galls_9v@icloud.com](mailto:slimier.galls_9v@icloud.com)
-- **Hugging Face:** [@soundstarrain](https://huggingface.co/soundstarrain)
-
 ---
 
 ### 📊 My GitHub Stats
