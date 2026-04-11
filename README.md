@@ -2,7 +2,7 @@
 
 I am a Computer Science **sophomore** deeply focused on **Machine Learning**, **Large Language Models (LLMs)**, and **Recommender Systems**. 
 
-I am currently engaged in independent and collaborative research across multiple AI domains. I am actively looking for **internship opportunities** and am always open to open-source collaborations and research discussions.
+I am currently engaged in independent and collaborative research across multiple AI domains, and I am always open to open-source collaborations and research discussions.
 
 ### 🔬 Research & Interests
 
