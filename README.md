@@ -1,12 +1,12 @@
 ## Hi there, I'm SoundRain! 👋
 
-I am a Computer Science undergraduate focused on **Machine Learning**, **Large Language Models (LLMs)**, and **Recommender Systems**. 
+I am a Computer Science **sophomore** deeply focused on **Machine Learning**, **Large Language Models (LLMs)**, and **Recommender Systems**. 
 
-I am currently engaged in independent and collaborative research across multiple AI domains. I am open to open-source collaborations, research discussions, and potential remote/internship opportunities.
+I am currently engaged in independent and collaborative research across multiple AI domains. I am actively looking for **internship opportunities** and am always open to open-source collaborations and research discussions.
 
 ### 🔬 Research & Interests
 
-- **LLMs & Alignment:** Post-Training, Reinforcement Learning, NLP, and Machine Translation .
+- **LLMs & Alignment:** Post-Training, Reinforcement Learning, NLP, and Machine Translation.
 - **Recommender Systems:** Graph Neural Networks (GNN), Denoising, and Contrastive Learning (e.g., InfoNCE).
 - **Exploring:** AI for Science (AI4S), Embodied AI (Robotics), and Speech Technologies.
 
@@ -18,12 +18,12 @@ I am currently engaged in independent and collaborative research across multiple
 
 ### 📌 Featured Work & Research
 
-- **[Murasaki-project](https://github.com/soundstarrain/Murasaki-project):** An ACGN translation model with native CoT (Chain-of-Thought) and Long Context support. Achieving **SOTA (State-of-the-Art) performance** in the ACGN translation and localization domain.
-- **[Ongoing Research]:** Currently working on specific research problems in **LLM Machine Translation** ，**Math Reasoning**and **Recommender Systems**.
+- **[Murasaki-project](https://github.com/soundstarrain/Murasaki-project):** An ACGN translation model with native CoT (Chain-of-Thought) and Long Context support. Achieving **SOTA (State-of-the-Art) performance** in the ACGN translation and localization domain. *(⭐ 600+ Stars)*
+- **[Ongoing Research]:** Currently working on specific research problems in **LLM Machine Translation**, **Math Reasoning**, and **Recommender Systems**.
   
 ### 📫 Connect
 
-- **Email:** [slimier.galls_9v@icloud.com](mailto:slimier.galls_9v@icloud.com)
+- **Email:**[slimier.galls_9v@icloud.com](mailto:slimier.galls_9v@icloud.com)
 - **Hugging Face:** [@soundstarrain](https://huggingface.co/soundstarrain)
 
 ---
