@@ -1,6 +1,30 @@
-### Hi there, I'm SoundRain! 👋
+## Hi there, I'm SoundRain! 👋
 
-Welcome to my GitHub profile. I'm a university student majoring in Computer Science. I enjoy building projects about topics I'm passionate about.
+I am a Computer Science undergraduate focused on **Machine Learning**, **Large Language Models (LLMs)**, and **Recommender Systems**. 
+
+I am currently engaged in independent and collaborative research across multiple AI domains. I am open to open-source collaborations, research discussions, and potential remote/internship opportunities.
+
+### 🔬 Research & Interests
+
+- **LLMs & Alignment:** Post-Training, Reinforcement Learning, NLP, and Machine Translation .
+- **Recommender Systems:** Graph Neural Networks (GNN), Denoising, and Contrastive Learning (e.g., InfoNCE).
+- **Exploring:** AI for Science (AI4S), Embodied AI (Robotics), and Speech Technologies.
+
+### 💻 Tech Stack
+
+- **Deep Learning:** PyTorch, Hugging Face 🤗
+- **LLM Training:** Unsloth, verl, LLaMA-Factory
+- **Inference & Optimization:** vLLM, SGLang, OpenAI Triton
+
+### 📌 Featured Work & Research
+
+- **[Murasaki-project](https://github.com/soundstarrain/Murasaki-project):** An ACGN translation model with native CoT (Chain-of-Thought) and Long Context support. Achieving **SOTA (State-of-the-Art) performance** in the ACGN translation and localization domain.
+- **[Ongoing Research]:** Currently working on specific research problems in **LLM Machine Translation** ，**Math Reasoning**and **Recommender Systems**.
+  
+### 📫 Connect
+
+- **Email:** [slimier.galls_9v@icloud.com](mailto:slimier.galls_9v@icloud.com)
+- **Hugging Face:** [@soundstarrain](https://huggingface.co/soundstarrain)
 
 ---
 
@@ -15,8 +39,3 @@ Welcome to my GitHub profile. I'm a university student majoring in Computer Scie
 </td>
   </tr>
 </table>
-
-
-### 📫 How to reach me:
-
-- Email: slimier.galls_9v@icloud.com
