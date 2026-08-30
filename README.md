@@ -6,7 +6,6 @@ I am a Computer Science sophomore deeply focused on Machine Learning, Large Lang
 
 - **LLMs & Alignment:** Post-Training, Reinforcement Learning, NLP, and Machine Translation.
 - **Recommender Systems:** Graph Neural Networks (GNN), Denoising, and Contrastive Learning (e.g., InfoNCE).
-- **Exploring:** AI for Science (AI4S), Embodied AI (Robotics), and Speech Technologies.
 
 ### 💻 Tech Stack
 
