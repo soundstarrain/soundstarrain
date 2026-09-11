@@ -1,36 +1,36 @@
 ## Hi there, I'm SoundRain! 👋
 
-I am a Computer Science sophomore deeply focused on Machine Learning, Large Language Models (LLMs), and Recommender Systems.
+I'm a Computer Science student with a primary interest in **robust machine learning and representation learning**. I combine mathematical analysis with empirical research, with applications in multilingual NLP and recommender systems.
 
 ### 🔬 Research & Interests
 
-- **LLMs & Alignment:** Post-Training, Reinforcement Learning, NLP, and Machine Translation.
-- **Recommender Systems:** Graph Neural Networks (GNN), Denoising, and Contrastive Learning (e.g., InfoNCE).
+- **Robust Machine Learning & Representation Learning**\
+  Task-aware representations, latent recovery, and certified robustness to missing information and bounded perturbations.
 
-### 💻 Tech Stack
+- **Learning Dynamics & Model Adaptation**\
+  How data order and optimization shape learning, and how model behavior can be edited, steered, and transferred across models.
 
-- **Deep Learning:** PyTorch
-- **LLM Training:** Unsloth, verl, LLaMA-Factory
-- **Inference & Optimization:** vLLM, SGLang, OpenAI Triton
+- **Machine Translation & Multilingual NLP**\
+  Context-aware translation and evaluation, with a focus on preserving meaning and style across languages, including ACGN localization.
 
-### 📌 Featured Work & Research
+- **Recommender Systems & Preference Learning**\
+  Graph-based recommendation, positive and negative feedback, and preference-aware ranking that balances relevance with long-tail discovery.
 
-- **[Murasaki-project](https://huggingface.co/Murasaki-Project):** An ACGN translation model with native CoT and Long Context support. Achieving **SOTA performance** in the ACGN translation and localization domain. 
-- **[Ongoing Research]:** Currently working on specific research problems in **LLM Machine Translation**, **Math Reasoning**, and **Recommender Systems**.
-  
 ### 📫 Connect
 
-- **Email:**[slimier.galls_9v@icloud.com](mailto:slimier.galls_9v@icloud.com)
+- **Email:** [slimier.galls_9v@icloud.com](mailto:slimier.galls_9v@icloud.com)
+
 ---
 
 ### 📊 My GitHub Stats
+
 <table>
   <tr>
-<td>
-    <img src="https://github-readme-stats-rose-psi-30.vercel.app/api?username=soundstarrain&hide_border=true&show_icons=true&theme=transparent&count_private=true&hide_title=true" />
-</td>
-<td>
-    <img src="https://github-readme-stats-rose-psi-30.vercel.app/api/top-langs/?username=soundstarrain&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=xformers-prebuild-wheels,Isotr0py.github.io,github-profile-trophy,github-readme-stats&langs_count=8" />
-</td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats-rose-psi-30.vercel.app/api?username=soundstarrain&hide_border=true&show_icons=true&theme=transparent&count_private=true&hide_title=true" alt="SoundRain's GitHub statistics" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats-rose-psi-30.vercel.app/api/top-langs/?username=soundstarrain&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=xformers-prebuild-wheels,Isotr0py.github.io,github-profile-trophy,github-readme-stats&langs_count=8" alt="SoundRain's most used languages" width="100%" />
+    </td>
   </tr>
 </table>
