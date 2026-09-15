@@ -7,9 +7,6 @@ I'm a Computer Science student with a primary interest in **robust machine learn
 - **Robust Machine Learning & Representation Learning**\
   Task-aware representations, latent recovery, and certified robustness to missing information and bounded perturbations.
 
-- **Learning Dynamics & Model Adaptation**\
-  How data order and optimization shape learning, and how model behavior can be edited, steered, and transferred across models.
-
 - **Machine Translation & Multilingual NLP**\
   Context-aware translation and evaluation, with a focus on preserving meaning and style across languages, including ACGN localization.
 
