@@ -1,17 +1,17 @@
 ## Hi there, I'm SoundRain! 👋
 
-I'm a Computer Science student with a primary interest in **robust machine learning and representation learning**. I combine mathematical analysis with empirical research, with applications in multilingual NLP and recommender systems.
+I'm a Computer Science student with a primary interest in **machine learning foundations and trustworthy AI**. I combine mathematical analysis with empirical research, with interests spanning NLP, multimodal learning, and agentic AI.
 
 ### 🔬 Research & Interests
 
-- **Robust Machine Learning & Representation Learning**\
-  Task-aware representations, latent recovery, and certified robustness to missing information and bounded perturbations.
+- **Machine Learning Foundations & Trustworthy AI**\
+  Learning theory, representation learning, and robust and secure AI, with a focus on generalization, interpretability, and certified robustness.
 
-- **Machine Translation & Multilingual NLP**\
-  Context-aware translation and evaluation, with a focus on preserving meaning and style across languages, including ACGN localization.
+- **Natural Language Processing & Multilingual Intelligence**\
+  Language understanding, generation, and evaluation, with a focus on context-aware translation and preserving meaning and style across languages, including ACGN localization.
 
-- **Recommender Systems & Preference Learning**\
-  Graph-based recommendation, positive and negative feedback, and preference-aware ranking that balances relevance with long-tail discovery.
+- **Multimodal Learning & Agentic AI**\
+  Multimodal understanding and reasoning, model and agent safety, and graph-based approaches to agent memory, planning, and collaboration.
 
 ### 📫 Connect
 
