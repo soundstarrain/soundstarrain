@@ -27,7 +27,7 @@ I'm a Computer Science student with a primary interest in **machine learning fou
       <img src="https://github-readme-stats-rose-psi-30.vercel.app/api?username=soundstarrain&hide_border=true&show_icons=true&theme=transparent&count_private=true&hide_title=true" alt="SoundRain's GitHub statistics" width="100%" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-rose-psi-30.vercel.app/api/top-langs/?username=soundstarrain&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=xformers-prebuild-wheels,Isotr0py.github.io,github-profile-trophy,github-readme-stats&langs_count=8" alt="SoundRain's most used languages" width="100%" />
+      <img src="https://github-readme-stats-rose-psi-30.vercel.app/api/top-langs/?username=soundstarrain&layout=compact&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=xformers-prebuild-wheels,Isotr0py.github.io,github-profile-trophy,github-readme-stats&hide=html&langs_count=8" alt="SoundRain's most used languages" width="100%" />
     </td>
   </tr>
 </table>
