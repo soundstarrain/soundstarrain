@@ -10,8 +10,8 @@ I'm a Computer Science student interested in **AI security, trustworthy ML, and 
 - **Learning Theory, Reasoning & Agentic AI**\
   Statistical ML and generalization; LLM reasoning, agent learning, reinforcement learning, and planning.
 
-- **Multimodal Foundation Models**\
-  Multimodal understanding and reasoning; evaluation through datasets and benchmarks.
+- **Multimodal Foundation Models & Evaluation**\
+  Multimodal understanding and reasoning; model evaluation and dataset/benchmark development.
 
 ### 📫 Connect
 
