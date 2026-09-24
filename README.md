@@ -1,6 +1,6 @@
 ## Hi there, I'm SoundRain! 👋
 
-I'm a Computer Science student interested in **AI security, trustworthy ML, and learning theory**, with interests in reasoning, agentic AI, and multimodal foundation models. I combine mathematical analysis with empirical research.
+I'm a Computer Science student interested in **AI security, trustworthy ML, and learning theory**, with interests in reasoning, agentic AI, and multimodal models. I combine mathematical analysis with empirical research.
 
 ### 🔬 Research & Interests
 
@@ -10,7 +10,7 @@ I'm a Computer Science student interested in **AI security, trustworthy ML, and 
 - **Learning Theory, Reasoning & Agentic AI**\
   Statistical ML and generalization; LLM reasoning, agent learning, reinforcement learning, and planning.
 
-- **Multimodal Foundation Models & Evaluation**\
+- **Multimodal Models & Evaluation**\
   Multimodal understanding and reasoning; model evaluation and dataset/benchmark development.
 
 ### 📫 Connect
